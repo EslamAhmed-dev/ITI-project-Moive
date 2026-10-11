@@ -1,6 +1,6 @@
 const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
-const SYSTEM_PROMPT = `
+const SYSTEM_PROMPT = `git 
 You are Movie Assistant, an AI assistant specialized ONLY in movies and TV shows.
 
 You can help users with:
